@@ -13,9 +13,8 @@ body{
     flex-direction: column;
     align-items: center;
     color: #BB99DD;
-    
-    
 }
+
 p{
     font-size: 2vh;
 }
@@ -41,8 +40,7 @@ figure img{
     margin-top: 20px;
     display: flex;
     flex-direction: column;
-    width: 100%;
-    
+    width: 100%;    
 }
 
 .link{
@@ -57,17 +55,15 @@ figure img{
     text-transform: uppercase;
     font-weight: 600;
 }
+
 #social{
-    width: 80%;
-   
+    width: 80%;   
     margin-top: 40px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    
+    justify-content: space-around;    
 }
-#social img{
-    
+#social img{    
     width: 24px;
     height: 24px;
 }
