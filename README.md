@@ -1,5 +1,5 @@
 # Social Tree
- página com uma lista de links que pode ser usada em perfis de redes sociais.
+ página com uma lista de links que pode ser usada em perfis de redes sociais estilo linktree.
  
  ## Requisitos
  - Ter uma imagem de perfil
