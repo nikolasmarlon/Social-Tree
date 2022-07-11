@@ -6,4 +6,4 @@
  - ter lista de links
  - ter icones com links para outras redes sociais
 
-[figma ](https://www.figma.com/file/yi1ycIyAW8QiGiX9bMFHkU/DD-%2F-Social-links/duplicate)
+ Layout do projeto [Clicando Aqui](https://www.figma.com/file/yi1ycIyAW8QiGiX9bMFHkU/DD-%2F-Social-links/duplicate)
